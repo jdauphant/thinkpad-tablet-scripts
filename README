@@ -1,0 +1,13 @@
+Scripts for thinkpad tablet wacom base (X60t, x61t, x200t, x201t, x220t)
+
+Test on Thinkpad tablet X201
+
+
+after-rotate.sh 
+anti-horaire-rotate.sh 
+changemode.sh 
+changescreenmap.sh 
+horaire-rotate.sh
+
+Tips :
+Change LVDS1 by your screen name (xrandr without arguments)
